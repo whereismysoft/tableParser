@@ -1,7 +1,0 @@
-.*
-tutorial-env/
-.vscode/
-demo.docx
-*.docx
-*.pyc
-get-pip.py
