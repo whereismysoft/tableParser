@@ -1,6 +1,8 @@
 # before run:
 #     create env (pip3)
 #     install package docx
+# if env created run comand: source tutorial-env/bin/activate (Linux) || tutorial-env\Scripts\activate.bat (Windows)
+# then run file
 
 from docx.api import Document
 
