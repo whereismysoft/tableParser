@@ -1,6 +1,7 @@
 import xlrd
 from collections import OrderedDict
 import simplejson as json
+import sys
 
 wb = xlrd.open_workbook('dealers.xlsx', encoding_override="utf-8")
 sh = wb.sheet_by_index(0)
